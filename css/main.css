@@ -1,0 +1,23 @@
+nav class{
+  padding-top: 20px;
+}
+
+p{
+  font-size: 15px;
+  padding-top: 100px;
+  padding-bottom: 5px;
+  align-content: center;
+}
+
+nav{
+  font-size: 20px;
+  padding-top: 100px;
+}
+
+body{
+  color: black;
+}
+
+vw-picture{
+  width: auto;
+}
