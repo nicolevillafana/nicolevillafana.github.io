@@ -1,0 +1,142 @@
+h1{
+	text-align: center;
+	font-size: 30px;
+}
+
+body{
+	padding-top: 30px;
+}
+
+p.intro{
+	width: 75%;
+	padding-left: 200px;
+	font-size: 17px;
+}
+
+.olympicrings{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 10%;
+	height: 35%;
+}
+
+#worldmap{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height:50%;
+}
+
+#australiaflag{
+	width: 75px;
+	position: absolute;
+	top:510px;
+	left:1105px;
+}
+
+#canadaflag{
+	height: 40px;
+	width: 70px;
+	position: absolute;
+	top:100px;
+	left:160px;
+}
+
+#chinaflag{
+	height: 40px;
+	width: 70px;
+	position: absolute;
+	top: 210px;
+	left:960px;
+}
+
+#germanyflag{
+	height: 40px;
+	width: 70px;
+	position:absolute;
+	top:160px;
+	left:600px;
+}
+
+#greatbritainflag{
+	height: 40px;
+	width: 70px;
+	position:absolute;
+	top: 120px;
+	left: 480px;
+}
+
+#japanflag{
+	height: 40px;
+	width: 70px;
+	position: absolute;
+	top: 210px;
+	left:1160px;
+	border:1px;
+	border-color: black;
+	border-style: solid;
+}
+
+#norwayflag{
+	height: 40px;
+	width: 70px;
+}
+
+#russiaflag{
+	height: 45px;
+	width: 75px;
+	position: absolute;
+	top: 80px;
+	left: 880px;
+}
+
+#skflag{
+	height: 40px;
+	width: 70px;
+	position: absolute;
+	top: 150px;
+	left: 1050px;
+}
+
+#usaflag{
+	height: 40px;
+	width:70px;
+	position: absolute;
+	top: 185px;
+	left: 150px;
+
+}
+
+#box {
+	height: 1390px;
+	width:1400px;
+	position: relative;
+	outline-color: black;
+}
+
+div#popupbox {
+  top: 750px;
+  position: absolute;
+  width: 200px;
+  border: 4px solid;
+  background-color: white;
+  padding: 8px;
+  font-size: 14px;
+  transition-duration: .1s;
+  opacity: 0; /* Popup starts hidden. */
+}
+
+div#popupbox.visible {
+ margin-top: 0;
+  opacity: 1;
+}
+
+h2{
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+}
